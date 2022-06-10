@@ -1,0 +1,106 @@
+05/24 Day 2 Tue
+
+* downloaded & installed HPCC Platform 
+* installed ECL version community_8.6.28-1
+* https://hpccsystems.com/download/free-modules/machine-learning-library
+following the instructions from the above link, 
+* installed ML_core bundle 3.2.2
+* installed HPCC_Causality bundle 1.0
+* Read the causality toolkit blog https://hpccsystems.com/blog/ml/causality-toolkit
+* not able to understand the context of installing in HPCC node.
+* successfully installed because 
+
+Meeting notes 1130-1300
+
+more focus on
+causal inferences 
+causal metrics 
+
+d-separation 
+causal models 
+back door blocking - due calculations - for casual inferences 
+for direct inference - block both forward from parents
+so indirect is total -forward 
+
+difference and divide by 2 - average causal effect -- intervening twice
+
+causal notation
+causal toolkit
+each row
+
+covid19.hpccsystems.com
+another dataset
+find a proxy for latent variables
+
+Meeting notes 1430-1500
+
+Do not install the HPCC_Platform on windows
+Do it again in the Virtual machine - ubuntu 
+
+Got urine test done
+
+
+05/25 Day 3 Wed
+
+trying to install virtual box and ubuntu 18.04
+installation failed twice
+installation failed for ubuntu 20.04 
+re-installed ubuntu 18.04 and virtual box
+looked at Causal blogs and started reading books
+looked at covid19 datasets and created analyzed dataset
+Installing HPCc failed in VM
+
+05/26 Day 4 Thu
+
+installed HPCC platform image and ran ECL watch, ECL IDLE.
+Ran Anagram program
+Started ECL training from LexisNexis Risk https://learn.lexisnexis.com/Activity/1035?courseId=HPCC#
+Finished first three videos
+Had a trouble with installing client tools in windows. and asked roger for help
+Instructed to install HPCC Platform using hyper v and not using an image
+Installed HPCC platform in Ubuntu in hyperV
+followed the instructions sent by by roger in the pdf, originally sent by Lili Xu
+
+
+Meeting notes 1130-1300
+
+Causal notation:
+intervention vs counterfactual
+cf - talks about individual events
+while intevervtion will be generalist
+
+do calculas - blocking the backdoor path- to make correlation equals to counterfactual
+
+Causal metrics:
+1. average CE - two interventions; change in the resulting variable over the change in the causal variable
+2. controlled Direct CE - 
+3. indirect effect - 
+
+understand the origination of problems
+rewriting the expectation calculus
+difference between conditional expectation values and through machine learning sampling mechanisms ..!!!
+
+
+Meeting with Zheyu Shen 1500 -1515
+doubt clearing on testing the modules in because
+
+Installed HPCC_Platform in ubuntu in HyperV
+Installed HPCC_clienttools, Because module, ML_Core bundle, Causality bundle
+
+Testing the files in because module
+
+
+05/27 Day 5 Fri
+
+Continued model testing in the because module
+Found these bugs & resolved it.
+
+In the line 370 of synth/gen_data.py, change it to "gen.generate(datacount)"
+
+In the file models/M3-discrete.py, line 29 was commented, which was supposed to be uncommented.
+
+And also I have found a syntax error in the models/M5.py, In line 27, there were 2 '='. and 
+line 28 and 29 have to be swapped, as D is used before initiation. C is dependent on D.
+
+
+Looking for a possible hypothesis in covid19.hpccsystems.com
