@@ -1,3 +1,7 @@
+---
+title: Week 2
+---
+
 # 05/31 Day 6 Tue
 
 Testing the models

@@ -1,3 +1,7 @@
+---
+title: week 3
+---
+
 # 06/06 Monday Day 10
 
 Sent the Weekly report to Roger.
@@ -44,8 +48,8 @@ Code 1303,System error: 1303: RoxieMemMgr: Unable to create heap
 
 I started coding and read the data from the dataset.
 
-Since the file size is 30 Mb, I am not able to get all the rows. 
-Default size is 4MB, and hard limit is 10 Mb. Si I should find a way to read 30 Mb file.
+Since the file size is 30 Mb, I am not able to get all the rows.
+Default size is 4MB, and hard limit is 10 MB. Si I should find a way to read 30 Mb file.
 
 # 06/09 Thursday Day 13
 
@@ -53,15 +57,11 @@ I have received ProAgrica Data and I was asked to find 3-10 variables that can b
 
 I have received the latitude and longitude data for countries(world.flat) and US counties(us.flat). But in the World file, there are multiple latitude and longitude entries for the same country, having entries for multiple states. So I have got the doubt of which entry to consider for the causal model.
 
-When I tried to upload the file into my cluster, uploading was getting failed because of less disk space. I am seeing 100% usage on thor, hthor, roxie, etc clusters. Is it because of low memory? I have downloaded the dataset on my VM, which consumed all the disk space, due to which I was not able upload file. 
+When I tried to upload the file into my cluster, uploading was getting failed because of less disk space. I am seeing 100% usage on thor, hthor, roxie, etc. clusters. Is it because of low memory? I have downloaded the dataset on my VM, which consumed all the disk space, due to which I was not able upload file.
 
 I have Started analyzing ProAgrica scheme as they (ProAgrica.com) might need some time to release the data that we asked. So this was considered to be of higher priority.
 
-Some of the hypothesis that I found are:
-
-1. 
-
-There was event "Intern Chat" organized by Lorraine for the interns to meet each others.
+There was an event "Intern Chat" organized by Lorraine for the interns to meet each others.
 
 1. It was a privilege's to meet other interns and few LexisNexis employees as well.
 
@@ -76,4 +76,6 @@ Later in the team meeting I had discussed the issues that I found with Roger.
 3. In-order to reduce complexity in the Causal model for the housing dataset, we decided to ignore the dependency of Housing type on the number of bedrooms and bathrooms and also the square footage.
 
 When reading the level1.csv (COVID-19 dataset) file, I have decided to reach out to Hugo for the additional instructions. I also wanted to ask which is the most suitable file type (flat vs csv) for playing with the data.
+
+# 06/10 Friday Day 14
 
