@@ -1,40 +1,32 @@
 ---
-title : Causaity Project
+title : CAUASALITY PROJECT
 ---
-## Welcome to GitHub Pages
+## Welcome...
 
-You can use the [editor on GitHub](https://github.com/ArunGaonkar/ArunGaonkar-HPCC-Causality.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In the Causality Project at HPCC systems, I'll be applying the causality toolkit to real-world dataset to discover the causal relations, infer, analyse and verify causal inferences. With this I'll be also to verifying the causal toolkit developed by HPCC Systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Navigate through different weeks through get the progress from [here.](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/index.html#week):point_down:
+ 
+## About Me
 
-### Markdown
+I am Arun Gaonkar, pursuing Master's in Computer Science from North Carolina State University, Raleigh, NC. I have done my *Bachelor of Technology* in *Electronics and Commmunication Engineering* from [PES University, Bengaluru, KA, INDIA](www.pes.edu) in 2020. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was first exposed to *Artificial Neural Network* by an elective course in my Bachelors. This course elavated my interest in Machine Learning which I took in the next semester and enjoyed learning it. Few other courses like *Digital Image Processing*, *Parallel and distributed computing* made heightened my passion for pursuing Master's. During Master's at NCSU, I have improved my skills in Data Scince and ML/AI. I am happy to say that I will be 
 
-```markdown
-Syntax highlighted code block
+During Summer 2022, I will be interning at HPCC Systems, LexisNexis Risk Solutions. My office location is Alpharetta, GA, but remote working is also fun. I will be working on the Causality Project under Roger Dev.
 
-# Header 1
-## Header 2
-### Header 3
+I do make spelling mistakes and few intentionally. Please feel to [contact](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/index.html#contact) me if you have any suggestions or if you just wanted to say hi:wave:.
 
-- Bulleted
-- List
+[My Projects](https://github.com/ArunGaonkar)
 
-1. Numbered
-2. List
+## Week
 
-**Bold** and _Italic_ and `Code` text
+1. [Week 1](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week1.md)
+2. [Week 2](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week2.md)
+3. [Week 3](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week3.md)
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Feel free to contact me at arun.rg37@gmail.com or [LinkedIn](https://www.linkedin.com/in/arun-gaonkar)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArunGaonkar/ArunGaonkar-HPCC-Causality.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
