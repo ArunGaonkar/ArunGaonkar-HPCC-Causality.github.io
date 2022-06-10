@@ -2,7 +2,14 @@
 title: Week 2
 ---
 
-# 05/31 Day 6 Tue
+[HOME](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/) |
+[Timeline](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/index.html#timeline) |
+[Previous Week](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week1.html) |
+[Next Week](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week3.html)
+
+---
+
+# Tuesday 05/31
 
 Testing the models
 
@@ -28,21 +35,21 @@ Team Meeting with Roger and Z.Shen
 * checked the working of the setup in my machine
 * hypothesis for covid 19 dataset was discussed and H1 has been discarded. H2 has been approved.
 
-## Hypothesis 1
+### Hypothesis 1
 
 * Vaccination and secondary testing result data is not available
 * Vaccination data has few information only.
 
 So hypothesis 1 has been discarded.
 
-## Hypothesis 2
+### Hypothesis 2
 
 * can consider variables like temperature, humidity, wind speed, month and latitude
 * breakdown seasonality by month (discrete) and latitude (continuous variable).
 * R is a function of latitude and week of the year
 * include the delay of 2-3 weeks in the model as the R value is delayed by test result time.
 
-# 06/01 Day 7 Wed
+# Wednesday 06/01
 
 Read 4 Research Paper for the Hypothesis Proposal.
 
@@ -52,7 +59,7 @@ Testing the model in the Causal hypothesis.
 
 Got few doubts in the results of testing the Causal discovery of a model.
 
-# 06/02 Day 8 Thu
+# Thursday 06/02
 
 Working towards the suggestion on the Causal Hypothesis Proposal.
 
@@ -75,7 +82,7 @@ built a sample causal model for the above hypothesis.
 
 ![covid-causalHypothesis](imgs/covid-causalHypothesis.png)
 
-# 06/03 Day 9 Fri
+# Friday 06/03
 
 Sprayed the covid19 dataset into the cluster.
 
@@ -100,10 +107,17 @@ Dataset Analysis & Inferences:
 
 Found the Boston housing dataset. <https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data>
 
-## Hypothesis 1: The effect of month on the selling price of the house
+### Hypothesis 1: The effect of month on the selling price of the house
 
 In which month the house is sold the price is the highest? and in which month the price is the lowest? Can we observe the trend in the selling price of the house in a year?
 
-## Hypothesis 2: The number of rooms and the location has a positive effect on the selling price of the house
+### Hypothesis 2: The number of rooms and the location has a positive effect on the selling price of the house
 
 As the number of rooms increases, the selling price of the house increases. It may also be the case that the location of the house increases the selling price.
+
+
+---
+[HOME](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/) |
+[Timeline](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/index.html#timeline) |
+[Previous Week](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week1.html) |
+[Next Week](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week3.html)

@@ -1,8 +1,14 @@
 ---
-title: week 3
+title: Week 3
 ---
 
-# 06/06 Monday Day 10
+[HOME](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/) 
+[Week 2](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week2.html) 
+[Week 4](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week4.html)
+
+---
+
+# Monday 06/06
 
 Sent the Weekly report to Roger.
 The dataset that I found has only 1460 rows, which seems less for causality analysis. So I started to look at other datasets.
@@ -22,7 +28,7 @@ But change in the hypothesis is not required, as it also applies to this dataset
 
 I started learning to write code in ECL. Also started ECL training from LexisNexis - Introduction to Enterprise Control Language.
 
-# 06/07 Tuesday Day 11
+# Tuesday 06/07 
 
 continued tutorials from LexisNexis on ECL.
 
@@ -37,7 +43,7 @@ Team meeting :1130-1230
 
 Updated the hypothesis for both the dataset and sent it to Roger.
 
-# 06/08 Wednesday Day 12
+# Wednesday 06/08 
 
 Continued tutorials from LexisNexis on ECL.
 
@@ -51,7 +57,7 @@ I started coding and read the data from the dataset.
 Since the file size is 30 Mb, I am not able to get all the rows.
 Default size is 4MB, and hard limit is 10 MB. Si I should find a way to read 30 Mb file.
 
-# 06/09 Thursday Day 13
+# Thursday 06/09
 
 I have received ProAgrica Data and I was asked to find 3-10 variables that can be used to build a causal model and apply the toolkit on AgX dataset.
 
@@ -77,5 +83,4 @@ Later in the team meeting I had discussed the issues that I found with Roger.
 
 When reading the level1.csv (COVID-19 dataset) file, I have decided to reach out to Hugo for the additional instructions. I also wanted to ask which is the most suitable file type (flat vs csv) for playing with the data.
 
-# 06/10 Friday Day 14
-
+# Friday 06/10 
