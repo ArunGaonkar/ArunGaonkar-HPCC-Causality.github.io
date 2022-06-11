@@ -2,9 +2,9 @@
 title: Week 3
 ---
 
-[HOME](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/) 
-[Week 2](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week2.html) 
-[Week 4](https://arungaonkar.github.io/ArunGaonkar-HPCC-Causality.github.io/week4.html)
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) 
+[Week 2](https://arungaonkar.github.io/HPCC-Causality/week2.html) 
+[Week 4](https://arungaonkar.github.io/HPCC-Causality/week4.html)
 
 ---
 
