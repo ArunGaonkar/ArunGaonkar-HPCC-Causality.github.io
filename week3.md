@@ -11,7 +11,7 @@ title: Week 3
 
 # Monday 06/06
 
-The Boston housing dataset from Kaggle has only 1460 rows, which seems less for causality analysis. So I found another [dataset](https://www.kaggle.com/datasets/austinreese/usa-housing-listings) which has 384977 listings with 22 columns, which includes
+The Boston housing dataset from Kaggle has only 1460 rows, which seems less for causality analysis. So I found another housing [dataset](https://www.kaggle.com/datasets/austinreese/usa-housing-listings) which has 384977 listings with 22 columns, which includes
 
 * price data
 * latitude
@@ -38,7 +38,13 @@ In the Team meeting with Roger and Zheyu from 1130-1230, we discussed the hypoth
 5. I am also asked to find a way to include week number ranging from 1 to 52 for the COVID19 dataset, so that I can keep track of which week refers to which season.
 6. Roger suggested that instead of the country code, include the discretized latitude. If I can find that in the dataset, include it otherwise, I have to find the latitudes manually and add to the dataset.
 
-After the meeting I have drafted the updated the hypothesis for both the dataset (COVID and Housing) and sent it to Roger.
+After the meeting I have [updated the hypothesis](https://arungaonkar.github.io/HPCC-Causality/HypothesisProposal.pdf) for both the dataset (COVID and Housing) and sent it to Roger.
+
+Figure below shows the sample causal model for the COVID dataset.
+![COVID Causal](imgs/covidHypothesis_Updated.png)
+
+Figure below shows the sample causal model for Housing dataset.
+![Housing Hypothesisimage.png](imgs/HousingHypothesis.png)
 
 # Wednesday 06/08 
 
