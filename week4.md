@@ -91,7 +91,7 @@ When applying *Normalize* function, I have found it cannot be applied directly t
 
 Also I have to apply the filtering option of selecting only required columns out of the whole dataset.
 
-Along with that I have looked at few tutorial videos on ECL coding from LexisNexis. And the Probability module in HPCC_Causality toolkit, which helps in applying different functions.
+Along with that I have looked at few tutorial videos on ECL coding from LexisNexis. And the Probability module in HPCC_Causality toolkit, which helps in applying different functions. I have found an error in HPCC_Causality 'continuousTest.ell' file when understanding the implementation of Probability testing.
 
 ---
 
