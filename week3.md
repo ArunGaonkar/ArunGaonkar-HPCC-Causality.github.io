@@ -51,6 +51,7 @@ Figure below shows the sample causal model for Housing dataset.
 I have continued tutorials on ECL from LexisNexis. I started coding and was able to read the data from the dataset. Since the file size is 30 Mb, I am not able to get all the rows. Default size is 4MB, and hard limit is 10 MB. So I should find a way to read 30 MB file.
 
 I was facing some issue when I tried to spray the dataset files to the local cluster. When I tried running the synthTest, I got this error,
+
 `Code 1303,System error: 1303: RoxieMemMgr: Unable to create heap`
 
 ![error-Synth](imgs/errorSynthTest.png)
