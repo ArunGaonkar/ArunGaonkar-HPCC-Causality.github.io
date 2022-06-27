@@ -82,6 +82,8 @@ So I have decided to apply this filter.
 
 1. **500 <= Price <= 10000**, Assuming that the reasonable price for a house lies between that range.
 2. **300 <= Square Feet <= 1200**, Assuming that the reasonable square footage for a house worth accommodating lies between that range.
+3. **0 <= Bedrooms <= 4**, Assuming that the reasonable number of bedrooms for a house lies between that range.
+4. **1 <= Bathrooms <= 4**, Assuming that the reasonable number of bathrooms for a house lies between that range.
 
 # Friday 06/17
 
@@ -91,7 +93,7 @@ When applying *Normalize* function, I have found it cannot be applied directly t
 
 Also I have to apply the filtering option of selecting only required columns out of the whole dataset.
 
-Along with that I have looked at few tutorial videos on ECL coding from LexisNexis. And the Probability module in HPCC_Causality toolkit, which helps in applying different functions. I have found an error in HPCC_Causality 'continuousTest.ell' file when understanding the implementation of Probability testing.
+Along with that I have looked at few tutorial videos on ECL coding from LexisNexis. And the Probability module in HPCC_Causality toolkit, which helps in applying different functions. I have found an error in HPCC_Causality 'continuousTest.ecl' file when understanding the implementation of Probability testing.
 
 ---
 

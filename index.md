@@ -22,6 +22,7 @@ During Summer 2022, I will be interning at **HPCC Systems, LexisNexis Risk Solut
 3. [Week 3](https://arungaonkar.github.io/HPCC-Causality/week3.html)
 4. [Week 4](https://arungaonkar.github.io/HPCC-Causality/week4.html)
 5. [Week 5](https://arungaonkar.github.io/HPCC-Causality/week5.html)
+6. [Week 6](https://arungaonkar.github.io/HPCC-Causality/week6.html)
 
 ## Contact Me
 
