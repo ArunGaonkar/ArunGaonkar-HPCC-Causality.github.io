@@ -53,7 +53,7 @@ In this case how to draw conclusions from the results?
 
 # Thursday 06/23
 
-I have tested the dataset for conditional independence and found these results. Using 'prob' test methods,  I found that there is no symmetry in the results. 
+I have tested the dataset for conditional independence and found these results. Using 'prob' test methods,  I found that there is no symmetry in the results.
 
 ![HousingCondDepTest](imgs/HousingCondDepTest.png)
 
@@ -61,7 +61,7 @@ This was the updated inference from the above table.
 
 ![HousingInf3](imgs/HousingInf3.png)
 
-Conditionally (A, B | C) should be same as (B, A | C), this was violated in the conditional dependency tests. So In the team meeting, it was discussed, and later we pair programmed to add the 'rcot' testing method to the HPCC_Causality bundle. We faced a issue, in *because* module, which was asked Zheyu to solve it.
+Conditionally (A, B &#124; C) should be same as (B, A &#124; C), this was violated in the conditional dependency tests. So In the team meeting, it was discussed, and later we pair programmed to add the 'rcot' testing method to the HPCC_Causality bundle. We faced a issue, in *because* module, which was asked Zheyu to solve it.
 
 I have raised a Pull request to the HPCC_Causality bundle for including the *rcot* method for testing conditionality dependencies.
 
@@ -74,6 +74,10 @@ I have tested conditionality dependencies using *rcot* method and found out the 
 I have tested conditionality independencies for variables of housing dataset conditioned on 2 variables using both *prob* and *rcot* methods. I have found some interesting results like, both methods are giving different results for few queries.
 
 Using *rcot* method I have found that all are dependent but using *prob* method few are not.
+
+![HousingCond2Var](imgs/HousingCond2Var.png)
+
+But no proper conclusions can be drawn.
 
 ---
 
