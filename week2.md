@@ -2,9 +2,9 @@
 title: Week 2
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week1.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week1.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week3.html)
 
 ---
@@ -68,7 +68,7 @@ After careful analysis of the whole COVID19 dataset, going through 22000 rows, I
 <!-- ![filteredCountriesAnalysis](imgs/filteredCountriesAnalysis.png) -->
 
 ---
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week1.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week1.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week3.html)

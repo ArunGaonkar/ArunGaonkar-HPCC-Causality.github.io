@@ -2,8 +2,8 @@
 title: Week 1
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week2.html)
 
 ---
@@ -47,6 +47,6 @@ I have decided to use covid19.hpccsystems.com for applying the causality toolkit
 * What is impact of weather on the spreading of COVID-19?
 
 ---
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week2.html)

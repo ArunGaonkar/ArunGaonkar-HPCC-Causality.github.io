@@ -2,9 +2,9 @@
 title: Week 3
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week2.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week2.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week4.html)
 
 ---
@@ -83,7 +83,7 @@ I began examining the AgX dataset because they (ProAgrica.com) may take some tim
 
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week2.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week2.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week4.html)

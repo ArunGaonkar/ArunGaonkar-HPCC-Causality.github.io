@@ -2,9 +2,9 @@
 title: Week 4
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week3.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week3.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week5.html)
 
 ---
@@ -97,7 +97,7 @@ Along with that I have looked at few tutorial videos on ECL coding from LexisNex
 
 ---
 
-[HOME](https://arungaonkar.github.io/HPCC-Causality/) |
-[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) |
-[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week3.html) |
+[HOME](https://arungaonkar.github.io/HPCC-Causality/) **|**
+[Timeline](https://arungaonkar.github.io/HPCC-Causality/index.html#timeline) **|**
+[Previous Week](https://arungaonkar.github.io/HPCC-Causality/week3.html) **|**
 [Next Week](https://arungaonkar.github.io/HPCC-Causality/week5.html)
