@@ -25,7 +25,7 @@ The Boston housing dataset from Kaggle has only 1460 rows, which seems less for 
 Since original hypothesis was based on the intuition and it holds true for this dataset as well.
 So change in the hypothesis was not required. I started learning to write code in ECL. Also started ECL training from LexisNexis - Introduction to Enterprise Control Language.
 
-# Tuesday 06/07 
+# Tuesday 06/07
 
 I have continued the tutorials on ECL from LexisNexis.
 
@@ -46,7 +46,7 @@ Figure below shows the sample causal model for the COVID dataset.
 Figure below shows the sample causal model for Housing dataset.
 ![Housing Hypothesisimage.png](imgs/HousingHypothesis.png)
 
-# Wednesday 06/08 
+# Wednesday 06/08
 
 I have continued tutorials on ECL from LexisNexis. I started coding and was able to read the data from the dataset. Since the file size is 30 Mb, I am not able to get all the rows. Default size is 4MB, and hard limit is 10 MB. So I should find a way to read 30 MB file.
 
@@ -77,7 +77,7 @@ Later in the team meeting I had discussed the issues that I found with Roger.
 
 When reading the level1.csv (COVID-19 dataset) file, I have decided to reach out to Hugo for the additional instructions. I also wanted to ask which is the most suitable file type (flat vs csv) for playing with the data.
 
-# Friday 06/10 
+# Friday 06/10
 
 I began examining the AgX dataset because they (ProAgrica.com) may take some time to release the data we requested. As a result, it was deemed more important. I'm having trouble hypothesizing the data because it contains over 8000 attributes. I've compiled a list of characteristics for which I believe I can intuitively connect them. However, this is taking longer than I anticipated.
 
