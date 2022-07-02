@@ -45,13 +45,17 @@ I have started learning more ECL language and its features from Introduction to 
 
 I have stated analyzing the AgX record schema for possible hypothesis. I found a hypothesis which is as follows.
 
-```Depending on the type of the crop, will the large seeds affects the average yield? How does large seeds affects the sale of the crop? What is the effect of crop type on the Harvest Sale? Does the yield affect the Harvest sale?```
+```text
+Depending on the type of the crop, will the large seeds affects the average yield? How does large seeds affects the sale of the crop? What is the effect of crop type on the Harvest Sale? Does the yield affect the Harvest sale?
+```
 
 ![AgX_model3](imgs/AgX_model3.png)
 
 Looking at the AgX record schema again, I wanted to find some intuitive hypothesis. So I started looking at sugarcane harvest data. I found another hypothesis which is as follows.
 
-```Considering we have different classes of sugarcane, does the yield of the crop depend on the class of the crop? What is the effect. of the class on the sugar content that can be extracted from the cane? Does the soil percentage in the cane affected by class and the average yield? How does soil percentage effects the sugar content of the cone?```
+```text
+Considering we have different classes of sugarcane, does the yield of the crop depend on the class of the crop? What is the effect. of the class on the sugar content that can be extracted from the cane? Does the soil percentage in the cane affected by class and the average yield? How does soil percentage effects the sugar content of the cone?
+```
 
 ![AgX_model4](imgs/AgX_model4.png)
 
@@ -63,7 +67,9 @@ I have implemented labelEncoder for housing *types* in the housing dataset. With
 
 Results are interesting now when included the *types* parameter.
 
-```'price' is independent of 'sqfeet' and independent of 'beds' also.```
+```text
+'price' is independent of 'sqfeet' and independent of 'beds' as well.
+```
 
 ![HousingDepTest](imgs/HousingDepTest.png)
 
