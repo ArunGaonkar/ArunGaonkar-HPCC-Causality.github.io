@@ -57,10 +57,11 @@ Does the yield affect the Harvest sale?
 Looking at the AgX record schema again, I wanted to find some intuitive hypothesis. So I started looking at sugarcane harvest data. I found another hypothesis which is as follows.
 
 ```text
-Considering we have different classes of sugarcane, does the yield of the crop depend on the class of the crop? 
+Considering we have different classes of sugarcane, does the yield of the crop 
+depend on the class of the crop? 
 What is the effect of the class on the sugar content that can be extracted from the cane? 
 Does the soil percentage in the cane affected by class and the average yield? 
-How does soil percentage effects the sugar content of the cone?
+How does soil percentage affects the sugar content of the cone?
 ```
 
 ![AgX_model4](imgs/AgX_model4.png)
@@ -85,7 +86,7 @@ Implementing conditional dependency tests conditioned on 2 variables are as foll
 
 ![HousingDepTest2](imgs/HousingDepTest2.png)
 
-I have to draw the causal models using these results.
+I have to draw the dependency relations and causal models using these results.
 
 ---
 
