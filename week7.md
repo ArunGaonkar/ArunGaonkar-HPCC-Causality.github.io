@@ -41,7 +41,7 @@ Roger noticed some irregularities in the dataset and found that the dataset is n
 
 In the Team meeting from 1230-1430, Roger helped me in the gridBundle. I have also reported the bug in *isIndependent* test in the because module.
 
-I was looking for any datasets where some reasonable hypothesis can be formed. After looking over more than 100 datasets in Kaggle and trying to  make my own dataset in WorldBank.org, I found few datasets, where few real-world hypotheses can be formed, but I think they are not intuitive enough.
+I was looking for any datasets where some reasonable hypothesis can be formed. After looking over more than 100 datasets in Kaggle and trying to  make my own dataset in WorldBank.org, I found few datasets, where some real-world hypotheses can be formed, but I think they are not intuitive enough.
 
 ---
 
