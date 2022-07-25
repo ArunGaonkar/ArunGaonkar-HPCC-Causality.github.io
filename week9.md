@@ -59,8 +59,6 @@ Few inferences from the graph are:
 
 1. Given a particular age, the probability of diabetes increases with the weight, but only after the age of 30. From the age 18-30, diabetes seems independent of the age and weight. And for a particular age, the height does not seem to affect the probability of diabetes. It can explained by the factor that height stops increasing after a particular age, but not the weight.
 
-    <!-- ![db_bmicat](imgs/db_bmicat.png) -->
-
 2. When I tried diabetes | bmi, weight, the graph is pretty much as expected. As the weight increased, BMI  also increased, showing the direct dependency of BMI and weight. And as both increased, the probability of diabetes also increased.
 
 But with diabetes | bmi and height: as the height increased, BMI was supposed to decrease, according to the formula. But here, change in height is not affecting the BMI. So the probability of diabetes is increasing as BMI increased. This analysis points in a direction that the BMI is independent of the height. And also the negative correlation that has been observed between BMI and height, was not observed in this plot.
