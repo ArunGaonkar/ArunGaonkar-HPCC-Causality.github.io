@@ -31,7 +31,7 @@ I have continued to analyze the data for some patterns. Some of the observations
 
 2. In diabetes vs bmicategory - for underweight people, diabetes was 1 (no diabetes). but when controlled with height, Diabetes of underweight people found to be yes. And the result remained same for all others. What could be the inference from this?
 
-When doing a test I found a potential bug. *invalid value in true_divide (line 1138 prob.py)*
+    When doing a test, I found a potential bug. *invalid value in true_divide (line 1138 prob.py)*
 
 3. As income increases the probability of diabetes decreases. In order to understand this I started to find the relationship of income and other factors that can affect the probability of diabetes.
 
@@ -59,9 +59,9 @@ Few inferences from the graph are:
 
 1. Given a particular age, the probability of diabetes increases with the weight, but only after the age of 30. From the age 18-30, diabetes seems independent of the age and weight. And for a particular age, the height does not seem to affect the probability of diabetes. It can explained by the factor that height stops increasing after a particular age, but not the weight.
 
-2. When I tried diabetes | bmi, weight, the graph is pretty much as expected. As the weight increased, BMI  also increased, showing the direct dependency of BMI and weight. And as both increased, the probability of diabetes also increased.
+2. When I tried diabetes &#124; bmi, weight, the graph is pretty much as expected. As the weight increased, BMI  also increased, showing the direct dependency of BMI and weight. And as both increased, the probability of diabetes also increased.
 
-But with diabetes | bmi and height: as the height increased, BMI was supposed to decrease, according to the formula. But here, change in height is not affecting the BMI. So the probability of diabetes is increasing as BMI increased. This analysis points in a direction that the BMI is independent of the height. And also the negative correlation that has been observed between BMI and height, was not observed in this plot.
+    But with diabetes &#124; bmi and height: as the height increased, BMI was supposed to decrease, according to the formula. But here, change in height is not affecting the BMI. So the probability of diabetes is increasing as BMI increased. This analysis points in a direction that the BMI is independent of the height. And also the negative correlation that has been observed between BMI and height, was not observed in this plot.
 
 3. People aged 35 and above, with higher income tend to have lesser probability of diabetes. But this is not for the people with the aged below 35. As people of this age have very less chance of diabetes.
 
