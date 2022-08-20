@@ -1,4 +1,4 @@
 .vscode
-week*.pdf
+# week*.pdf
 *.txt
 *.log
