@@ -1,5 +1,5 @@
 ---
-title : CAUSALITY PROJECT
+title: CAUSALITY PROJECT
 ---
 ## Welcome to the Causality Project
 
